@@ -39,8 +39,7 @@
     "css-mediaquery": "^0.1.2",
     "css-tree": "1.0.0-alpha.28",
     "debug": "^4.1.1",
-    "jsesc": "^2.5.2",
-    "puppeteer": "2.1.1"
+    "jsesc": "^2.5.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.6.0",
@@ -62,6 +61,9 @@
     "prettier": "^1.18.2",
     "prettier-standard": "^15.0.1",
     "rimraf": "^3.0.0"
+  },
+  "peerDependencies": {
+    "puppeteer": "*"
   },
   "keywords": [
     "CSS Critical Path Generator",
