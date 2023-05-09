@@ -1,5 +1,8 @@
 {
   "name": "@tarik02/penthouse",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "Generate critical path CSS for web pages",
   "version": "2.3.3",
   "homepage": "https://github.com/pocketjoso/penthouse",
